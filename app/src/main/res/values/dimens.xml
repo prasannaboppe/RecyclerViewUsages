@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textSizeTC1">16sp</dimen>
+    <dimen name="textSizeTC2">14sp</dimen>
+    <dimen name="textSizeTC3">12sp</dimen>
+
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="tab_strip_height">36dp</dimen>
+    <dimen name="list_item_height">96dp</dimen>
+    <dimen name="list_item_image_size">56dp</dimen>
+    <dimen name="list_item_image_size_large">112dp</dimen>
+    <dimen name="list_item_text_container_height">58dp</dimen>
+    <dimen name="list_item_image_margin_right">8dp</dimen>
+    <dimen name="global_edge_size">24dp</dimen>
+    <!-- This value is to be used on recyclerview and must be global_edge_size - default_card_elevation -->
+    <dimen name="recycler_view_edge_size">16dp</dimen>
+    <dimen name="default_card_elevation">8dp</dimen>
+    <dimen name="default_card_radius">0dp</dimen>
+    <dimen name="group_heading_vertical_padding">5dp</dimen>
+    <dimen name="grid_item_image_size">80dp</dimen>
+    <dimen name="grid_item_height">160dp</dimen>
+    <dimen name="toolbar_button_margin_right">16dp</dimen>
+
+</resources>
